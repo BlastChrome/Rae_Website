@@ -11952,7 +11952,7 @@ fieldset:disabled .btn {
 }
 
 .section-a, .section-c {
-  background-color: #ebebeb;
+  background-color: #f3f3f3;
   min-height: 500px;
 }
 
@@ -11968,5 +11968,25 @@ fieldset:disabled .btn {
 .section-c .btn:hover {
   background-color: #E82A8A;
   color: #fff;
+}
+
+.section-f {
+  min-height: 150px;
+  background-color: #1B1B1B;
+  color: white;
+}
+
+.section-f .btn {
+  border-color: #E82A8A;
+  color: #E82A8A;
+}
+
+.section-f .btn:hover {
+  background-color: #E82A8A;
+  color: #fff;
+}
+
+.section-f .section-g a {
+  color: black;
 }
 /*# sourceMappingURL=styles.css.map */

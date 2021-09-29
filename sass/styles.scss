@@ -2,7 +2,7 @@
 
 
 .section-a,.section-c{
-    background-color: rgb(235, 235, 235); 
+    background-color: rgb(243, 243, 243); 
     min-height: 500px;
 } 
 
@@ -23,4 +23,24 @@
             color: #fff;
         }
     }
+} 
+ 
+
+.section-f{
+    min-height: 150px; 
+    background-color: #1B1B1B; 
+    color: white; 
+    .btn{
+        border-color: #E82A8A; 
+        color: #E82A8A; 
+        &:hover{
+            background-color: #E82A8A; 
+            color: #fff;
+        }
 }
+
+.section-g{
+    a{
+        color: black;
+    }
+} }
