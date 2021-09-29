@@ -11951,12 +11951,22 @@ fieldset:disabled .btn {
   }
 }
 
-.section-a {
+.section-a, .section-c {
   background-color: #ebebeb;
   min-height: 500px;
 }
 
 .section-b .second-col p {
   line-height: 240%;
+}
+
+.section-c .btn {
+  border-color: #E82A8A;
+  color: #E82A8A;
+}
+
+.section-c .btn:hover {
+  background-color: #E82A8A;
+  color: #fff;
 }
 /*# sourceMappingURL=styles.css.map */

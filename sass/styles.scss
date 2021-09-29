@@ -1,7 +1,7 @@
 @import '../node_modules/bootstrap/scss/bootstrap.scss'; 
 
 
-.section-a{
+.section-a,.section-c{
     background-color: rgb(235, 235, 235); 
     min-height: 500px;
 } 
@@ -10,6 +10,17 @@
     .second-col{
         p{
             line-height: 240%;
+        }
+    }
+} 
+
+.section-c{
+    .btn{
+        border-color: #E82A8A; 
+        color: #E82A8A; 
+        &:hover{
+            background-color: #E82A8A; 
+            color: #fff;
         }
     }
 }
