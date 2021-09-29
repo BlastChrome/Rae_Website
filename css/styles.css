@@ -11950,4 +11950,13 @@ fieldset:disabled .btn {
     display: none !important;
   }
 }
+
+.section-a {
+  background-color: #ebebeb;
+  min-height: 500px;
+}
+
+.section-b .second-col p {
+  line-height: 240%;
+}
 /*# sourceMappingURL=styles.css.map */

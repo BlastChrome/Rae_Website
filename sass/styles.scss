@@ -1,1 +1,15 @@
-@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import '../node_modules/bootstrap/scss/bootstrap.scss'; 
+
+
+.section-a{
+    background-color: rgb(235, 235, 235); 
+    min-height: 500px;
+} 
+
+.section-b{
+    .second-col{
+        p{
+            line-height: 240%;
+        }
+    }
+}
