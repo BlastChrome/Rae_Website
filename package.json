@@ -1,0 +1,22 @@
+{
+  "name": "rae_website",
+  "version": "1.0.0",
+  "description": "Website for the childrens author RaeSeanna Lightner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlastChrome/Rae_Website.git"
+  },
+  "author": "Nicholas Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlastChrome/Rae_Website/issues"
+  },
+  "homepage": "https://github.com/BlastChrome/Rae_Website#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.1"
+  }
+}
